@@ -24,7 +24,6 @@ Analyzed an e-commerce sales dataset using MySQL to derive business insights.
 - Payment Method Analysis
 - Customer Ratings
 - Delivery Performance
-- Running Total Revenue
 - Customer Ranking
 
 ## Dataset
